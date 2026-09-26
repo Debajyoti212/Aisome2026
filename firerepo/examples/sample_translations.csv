@@ -1,0 +1,7 @@
+source_text,target_language,translated_text,label
+"Climate change is a serious concern.","hi","जलवायु परिवर्तन एक गंभीर चिंता है।","Favour"
+"Climate change is a serious concern.","bn","জলবায়ু পরিবর্তন একটি গুরুতর উদ্বেগ।","Favour"
+"Global warming is not a serious issue.","hi","ग्लोबल वार्मिंग कोई गंभीर मुद्दा नहीं है।","Against"
+"Global warming is not a serious issue.","bn","গ্লোবাল ওয়ার্মিং কোনো গুরুতর সমস্যা নয়।","Against"
+"I am neutral on this topic.","hi","मैं इस विषय पर तटस्थ हूँ।","None"
+"I am neutral on this topic.","bn","আমি এই বিষয়ে নিরপেক্ষ।","None"

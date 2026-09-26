@@ -1,0 +1,7 @@
+language,model,f1,rank,total_teams
+Bengali,Model 1,0.4699,,
+Bengali,Model 2,0.4756,,
+Bengali,Model 3,0.5274,12,18
+Hindi,Model 1,0.4222,,
+Hindi,Model 2,0.4288,,
+Hindi,Model 3,0.4561,17,18

@@ -1,0 +1,40 @@
+name: run1_muril_leaky
+
+model_name: google/muril-base-cased
+
+seed: 42
+
+epochs: 4
+
+learning_rate: 2.0e-5
+
+max_length: 256
+
+train_batch_size: 16
+
+eval_batch_size: 32
+
+group_split: false
+
+split_ratio: 0.90
+
+precision: fp16
+
+num_gpus: 2
+
+loss:
+  type: cross_entropy
+  class_weights: balanced
+
+metric:
+  name: f1_macro
+  average: macro
+
+nmt_checkpoint: epoch-19
+
+translation:
+  method: greedy
+
+languages:
+  - hindi
+  - bengali

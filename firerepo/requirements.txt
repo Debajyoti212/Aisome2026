@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+sentencepiece
+sacrebleu
+scikit-learn
+pandas
+numpy
+tqdm
+openpyxl
+pyyaml

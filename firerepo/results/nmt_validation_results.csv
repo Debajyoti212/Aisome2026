@@ -1,0 +1,5 @@
+epoch,hindi_bleu,bengali_bleu,average_bleu,average_training_loss
+17,23.65,15.93,19.79,3.2051
+18,23.95,16.46,20.21,3.1871
+19,25.33,16.35,20.84,3.1757
+0-16,,,19.75,

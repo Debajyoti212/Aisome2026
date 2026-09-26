@@ -1,0 +1,4 @@
+model,encoder,split,seed,overall_macro_f1,bengali_macro_f1,hindi_macro_f1,overall_accuracy
+Model 1,google/muril-base-cased,instance-level stratified 90/10,42,0.6533,0.6152,0.6890,0.6545
+Model 2,google/muril-base-cased,source-grouped stratified 90/10,7,0.6596,0.6617,0.6574,0.6628
+Model 3,xlm-roberta-base,source-grouped stratified 90/10,7,0.6817,0.6670,0.6964,0.6827
